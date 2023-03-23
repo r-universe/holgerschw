@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "logicFS"]
+	path = logicFS
+	url = https://git.bioconductor.org/packages/logicFS
+	shallow = true
+	registered = true
+[submodule "mcbiopi"]
+	path = mcbiopi
+	url = https://github.com/cran/mcbiopi
+	shallow = true
+	registered = true
+[submodule "scrime"]
+	path = scrime
+	url = https://github.com/cran/scrime
+	shallow = true
+	registered = true
+[submodule "siggenes"]
+	path = siggenes
+	url = https://git.bioconductor.org/packages/siggenes
+	shallow = true
+	registered = true
+[submodule "trio"]
+	path = trio
+	url = https://git.bioconductor.org/packages/trio
+	shallow = true
+	registered = true
