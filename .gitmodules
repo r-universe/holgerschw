@@ -2,18 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "logicFS"]
-	path = logicFS
-	url = https://git.bioconductor.org/packages/logicFS
 [submodule "mcbiopi"]
 	path = mcbiopi
 	url = https://github.com/cran/mcbiopi
 [submodule "scrime"]
 	path = scrime
 	url = https://github.com/cran/scrime
-[submodule "siggenes"]
-	path = siggenes
-	url = https://git.bioconductor.org/packages/siggenes
-[submodule "trio"]
-	path = trio
-	url = https://git.bioconductor.org/packages/trio
